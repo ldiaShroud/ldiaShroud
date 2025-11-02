@@ -10,15 +10,18 @@ $\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice. 
 
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/8a24c49b-bf52-4809-a168-c0523914be46">
-    <img src="https://github.com/user-attachments/assets/534868fe-be01-4d3d-9707-66263c40235d">
-</p>
+ <img src="https://github.com/user-attachments/assets/534868fe-be01-4d3d-9707-66263c40235d">
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/a16289ab-dc5d-4647-ae09-016486f21eca">
+  <img src="https://github.com/user-attachments/assets/8a24c49b-bf52-4809-a168-c0523914be46">
+ </p>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a0f106fb-de7e-4990-abbd-b352d2d6d601" </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/2cfcd363-46fc-4fb3-b803-bf3a5c298d47" </p>
+<img src="https://github.com/user-attachments/assets/d9cefe07-ac3e-4743-993e-00d827bb5f39" </p>
+
 
 
 WIP PAGE, redoing
