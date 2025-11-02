@@ -9,6 +9,10 @@ $\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice. 
 <p align="center"> <img src="https://github.com/user-attachments/assets/2a808441-958e-479d-8386-b4cbbc73aadf" </p>
 
 
+<p align="center"> <img src="https://github.com/user-attachments/assets/a809208f-5c35-4ee1-bda9-20752f4f85fc" </p>
+
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/5ac5d5a6-3005-411b-9d07-ffd6397c0b7e" </p>
 
 
 
