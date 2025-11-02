@@ -4,7 +4,8 @@
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/9f16435e-1e54-4132-a666-d1c03e8b9841" </p>
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/916e4498-5e95-4b98-8f41-be778e0151e1" </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/2b7381d8-5f4d-4601-87ba-06160fed0526" </p>
+
 
 
 WIP PAGE, redoing
