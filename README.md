@@ -11,7 +11,6 @@ $\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice. 
 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/534868fe-be01-4d3d-9707-66263c40235d">
- <p align="center">
 <img src="https://github.com/user-attachments/assets/a16289ab-dc5d-4647-ae09-016486f21eca">
   <img src="https://github.com/user-attachments/assets/8a24c49b-bf52-4809-a168-c0523914be46">
  </p>
