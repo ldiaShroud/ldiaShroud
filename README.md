@@ -15,7 +15,7 @@ $\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice. 
 
 <p align="center"> 
    <img src="https://github.com/user-attachments/assets/eaee046c-6410-44fe-b8b6-223922a35c17">
-$\color{#73C72E}{\textsf{"Just another day like all the rest."}}$
+$\color{#73C72E}{\textsf{"The wisdom of humankind is very interesting."}}$
    <img src="https://github.com/user-attachments/assets/eaee046c-6410-44fe-b8b6-223922a35c17">
 </p>
 
