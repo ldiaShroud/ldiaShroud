@@ -8,10 +8,10 @@
 </p>
 
 <p align="center"> 
-   <img src="https://github.com/user-attachments/assets/eaee046c-6410-44fe-b8b6-223922a35c17">
-$\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice. I think I'd like to study humans and learn more about them."}}$
-   <img src="https://github.com/user-attachments/assets/eaee046c-6410-44fe-b8b6-223922a35c17">
-</p>
+$\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice.}}$ </p>
+
+ <p align="center">
+   $\color{#73C72E}{\textsf{I think I'd like to study humans and learn more about them."}}$ </p>
 
 <p align="center"> 
    <img src="https://github.com/user-attachments/assets/eaee046c-6410-44fe-b8b6-223922a35c17">
