@@ -8,9 +8,9 @@ $\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice. 
 </p>
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/7ba4f119-960a-46ba-8c87-d4ee7b5f6450">
+ <img src="https://github.com/user-attachments/assets/471d5c76-0b9e-4490-b5f8-f3f4153e8007">
 <img src="https://github.com/user-attachments/assets/a16289ab-dc5d-4647-ae09-016486f21eca">
-  <img src="https://github.com/user-attachments/assets/73d2aadc-ff2f-4c27-823f-82b5586557f2">
+  <img src="https://github.com/user-attachments/assets/b7a0416f-abff-42fe-89bf-cbe509e907c7">
 </p>
 
 <p align="center"> 
@@ -20,7 +20,7 @@ $\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice. 
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a7c18c42-432b-4133-aa3c-0ac5432be964">
+<img src="https://github.com/user-attachments/assets/a12f32c7-09a4-43c2-a89d-8c5eb29e45f2" </p>
 
 
 
