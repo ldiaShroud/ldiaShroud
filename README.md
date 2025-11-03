@@ -5,6 +5,7 @@
    <img src="https://github.com/user-attachments/assets/eaee046c-6410-44fe-b8b6-223922a35c17">
 $\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice. I think I'd like to study humans and learn more about them."}}$
 </p>
+   <img src="https://github.com/user-attachments/assets/eaee046c-6410-44fe-b8b6-223922a35c17">
 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/534868fe-be01-4d3d-9707-66263c40235d">
