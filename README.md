@@ -1,3 +1,7 @@
+<p align="Center">
+<img src="https://komarev.com/ghpvc/?username=ldiaShroud&label=Hatchlings&color=73C72E"
+  </p>
+
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/8b804735-fb24-434b-b6be-179bbbfde921" </p>
 
