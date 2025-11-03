@@ -8,9 +8,9 @@ $\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice. 
 </p>
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/471d5c76-0b9e-4490-b5f8-f3f4153e8007">
+<a href="https://verciless.atabook.org/"><img src="https://github.com/user-attachments/assets/471d5c76-0b9e-4490-b5f8-f3f4153e8007"></a>
 <img src="https://github.com/user-attachments/assets/a16289ab-dc5d-4647-ae09-016486f21eca">
-  <img src="https://github.com/user-attachments/assets/b7a0416f-abff-42fe-89bf-cbe509e907c7">
+<a href="https://idiaangel.carrd.co"><img src="https://github.com/user-attachments/assets/b7a0416f-abff-42fe-89bf-cbe509e907c7"></a>
 </p>
 
 <p align="center"> 
