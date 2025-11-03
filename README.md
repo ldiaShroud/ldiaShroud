@@ -6,9 +6,6 @@
 $\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice. I think I'd like to study humans and learn more about them."}}$
 </p>
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/2a808441-958e-479d-8386-b4cbbc73aadf" </p>
-
-
 <p align="center">
  <img src="https://github.com/user-attachments/assets/534868fe-be01-4d3d-9707-66263c40235d">
 <img src="https://github.com/user-attachments/assets/a16289ab-dc5d-4647-ae09-016486f21eca">
