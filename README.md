@@ -13,6 +13,12 @@ $\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice. 
   <img src="https://github.com/user-attachments/assets/8a24c49b-bf52-4809-a168-c0523914be46">
  </p>
 
+<p align="center"> 
+   <img src="https://github.com/user-attachments/assets/eaee046c-6410-44fe-b8b6-223922a35c17">
+$\color{#73C72E}{\textsf{"Just another day like all the rest."}}$
+   <img src="https://github.com/user-attachments/assets/eaee046c-6410-44fe-b8b6-223922a35c17">
+</p>
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a4a39412-8978-4e03-bd28-bcf022dfecf7" </p>
 
