@@ -20,6 +20,7 @@ $\color{#73C72E}{\textsf{"Just another day like all the rest."}}$
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a4a39412-8978-4e03-bd28-bcf022dfecf7" </p>
+<img src="https://github.com/user-attachments/assets/aa6e79bd-751d-4fd2-acba-b54a50768b89"> </p>
+
 
 WIP PAGE, redoing
