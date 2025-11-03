@@ -8,19 +8,20 @@ $\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice. 
 </p>
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/534868fe-be01-4d3d-9707-66263c40235d">
+ <img src="https://github.com/user-attachments/assets/7ba4f119-960a-46ba-8c87-d4ee7b5f6450">
 <img src="https://github.com/user-attachments/assets/a16289ab-dc5d-4647-ae09-016486f21eca">
-  <img src="https://github.com/user-attachments/assets/8a24c49b-bf52-4809-a168-c0523914be46">
- </p>
+  <img src="https://github.com/user-attachments/assets/73d2aadc-ff2f-4c27-823f-82b5586557f2">
+</p>
 
 <p align="center"> 
    <img src="https://github.com/user-attachments/assets/eaee046c-6410-44fe-b8b6-223922a35c17">
    <img src="https://github.com/user-attachments/assets/eaee046c-6410-44fe-b8b6-223922a35c17">
-      <img src="https://github.com/user-attachments/assets/eaee046c-6410-44fe-b8b6-223922a35c17">
+ <img src="https://github.com/user-attachments/assets/eaee046c-6410-44fe-b8b6-223922a35c17">
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/aa6e79bd-751d-4fd2-acba-b54a50768b89"> </p>
+<img src="https://github.com/user-attachments/assets/a7c18c42-432b-4133-aa3c-0ac5432be964">
+
 
 
 WIP PAGE, redoing
