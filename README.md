@@ -1,7 +1,3 @@
-<p align="Center">
-<img src="https://komarev.com/ghpvc/?username=ldiaShroud&label=Hatchlings&color=73C72E"
-  </p>
-
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/8b804735-fb24-434b-b6be-179bbbfde921" </p>
 
@@ -26,6 +22,6 @@ $\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice. 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a12f32c7-09a4-43c2-a89d-8c5eb29e45f2" </p>
 
-
-
-WIP PAGE, redoing
+<p align="Center">
+<img src="https://komarev.com/ghpvc/?username=ldiaShroud&label=Hatchlings&color=3FC900"
+  </p>
